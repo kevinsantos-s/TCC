@@ -1,2 +1,2 @@
 # TCC
-TCC onde pude atuar de ponta a ponta, desde a documentação do projeto, prototipação e desenvolvimento das telas do sistema, realizar o desenvolvimento Frontend, Backend e Mobile da aplicação com operações de validação, CRUD e consumo de API rest.
+Este projeto de TCC consistiu no desenvolvimento de uma plataforma de assinaturas para kits personalizados de suplementos. Atuei de ponta a ponta no projeto, desde a documentação, prototipação e desenvolvimento das telas do sistema, até a implementação do Frontend com React e Vite (JavaScript), Backend em Java e Mobile com Android Studio. A aplicação conta com operações de validação, CRUD e consumo de API REST, garantindo uma experiência completa e funcional para os usuários.
